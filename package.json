@@ -1,7 +1,7 @@
 {
   "name": "rick-and-morty",
   "private": true,
-  "homepage": "http://jmslasso.github.io/rickandmorty",
+  "homepage": "https://jmslasso.github.io/Rick-and-Morty/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

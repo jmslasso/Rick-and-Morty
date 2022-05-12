@@ -129,7 +129,7 @@ export const ButtonContainer = styled.div`
 	align-items: center;
 	justify-content: center;
 	position: absolute;
-	background-image: url("/images/background.jpg");
+	background-image: url("https://initiate.alphacoders.com/images/606/cropped-1920-1080-606024.jpg?5452");
 	background-size: cover;
 	gap:30px;
 
